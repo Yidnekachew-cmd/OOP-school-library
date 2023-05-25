@@ -34,7 +34,7 @@
 <details>
 <summary>Client</summary>
   <ul>
-    <li><a href="#">Ruby</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
   </ul>
 </details>
 
@@ -82,7 +82,7 @@ You can deploy this project using: **Not available**.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
 👤 **Yidnekachew Kassahun**
 
